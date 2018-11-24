@@ -1,0 +1,4 @@
+{
+    "project_name": "Project Name",
+    "folder_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"
+}
