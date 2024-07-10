@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, at the parent directory, run:
 ------------
 ```
-    cookiecutter https://github.com/chris-chua/cookiecutter-datascience
+    cookiecutter https://github.com/chuawt-boilerplate/cookiecutter-datascience
 ```
 
 
